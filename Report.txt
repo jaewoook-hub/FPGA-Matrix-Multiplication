@@ -1,0 +1,13 @@
+MatMul Without FIFO
+
+Clock Cycles: 513
+Registers: 428
+Memory: 6144 bits
+Multipliers: 6
+
+MatMul With FIFO
+
+Clock Cycles: 211
+Registers: 2460
+Memory: 384 bits
+Multipliers: 1649
